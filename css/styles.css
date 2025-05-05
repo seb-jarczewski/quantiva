@@ -291,6 +291,10 @@ a:hover {
 	color: #f25c05;
 }
 
+#scolor {
+	color: #00cbcc;
+}
+
 /* Fade Animation For Rotating Text - ReplaceMe  */
 @-webkit-keyframes fadeIn {
 	from {
@@ -498,7 +502,7 @@ a:hover {
 /********************/
 .cards-1 {
 	padding-top: 9rem;
-	padding-bottom: 1.25em;
+	padding-bottom: 5.25em;
 	text-align: center;
 	background-color: #f4f4f4;
 }
@@ -554,7 +558,7 @@ a:hover {
 }
 
 .cards-1 .card-body {
-	padding: 0;
+	padding: 0.3;
 }
 
 .cards-1 .card-title {
@@ -570,8 +574,8 @@ a:hover {
 /*     Details 1     */
 /*********************/
 .basic-1 {
-	padding-top: 9.5rem;
-	padding-bottom: 10rem;
+	padding-top: 6rem;
+	padding-bottom: 6rem;
 }
 
 .basic-1 .text-container {
@@ -664,7 +668,7 @@ a:hover {
 /*     Details 2     */
 /*********************/
 .basic-2 {
-	padding-top: 9.5rem;
+	padding-top: 9rem;
 	padding-bottom: 9rem;
 }
 
@@ -1396,7 +1400,6 @@ a:hover {
 	.container .h2-heading span {
 		color: #00cbcc;
 	}
-	
 
 	/* Header */
 	.header {
@@ -1411,8 +1414,8 @@ a:hover {
 	
 	.header .image-container img {
 		position: absolute;
-		top: -180px;
-		left: -10px;
+		top: -130px;
+		left: -40px;
 		width: 840px;
 		max-width: none;
 	}
@@ -1433,7 +1436,8 @@ a:hover {
 
 	/* Details 1 */
 	.basic-1 .text-container {
-		margin-top: 10rem;
+		margin-top: 8rem;
+		margin-bottom: 6rem;
 	}
 
 	.basic-1 h2 {
@@ -1442,6 +1446,7 @@ a:hover {
 
 	.basic-1 .image-container {
 		margin-left: 4rem;
+		margin-top: 4rem;
 	}
 	/* end of details 1 */
 
@@ -1456,7 +1461,7 @@ a:hover {
 
 	/* Details 2 */
 	.basic-2 .text-container {
-		margin-top: 8rem;
+		margin-top: 5rem;
 		margin-left: 5rem;
 	}
 	/* end of details 2 */
